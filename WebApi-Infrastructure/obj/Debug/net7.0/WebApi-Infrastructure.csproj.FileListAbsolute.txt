@@ -1,0 +1,15 @@
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\bin\Debug\net7.0\WebApi-Infrastructure.deps.json
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\bin\Debug\net7.0\WebApi-Infrastructure.dll
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\bin\Debug\net7.0\WebApi-Infrastructure.pdb
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\bin\Debug\net7.0\WebApi-Domain.dll
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\bin\Debug\net7.0\WebApi-Domain.pdb
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\obj\Debug\net7.0\WebApi-Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\obj\Debug\net7.0\WebApi-Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\obj\Debug\net7.0\WebApi-Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\obj\Debug\net7.0\WebApi-Infrastructure.AssemblyInfo.cs
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\obj\Debug\net7.0\WebApi-Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\obj\Debug\net7.0\WebApi-Infrastructure.csproj.CopyComplete
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\obj\Debug\net7.0\WebApi-Infrastructure.dll
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\obj\Debug\net7.0\refint\WebApi-Infrastructure.dll
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\obj\Debug\net7.0\WebApi-Infrastructure.pdb
+C:\Users\AijazAfzal\source\repos\WebAPI-Dapper\WebApi-Infrastructure\obj\Debug\net7.0\ref\WebApi-Infrastructure.dll
